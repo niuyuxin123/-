@@ -1,0 +1,10 @@
+@import "../../node_modules/element-ui/packages/theme-chalk/src/common/var";
+@import "../../node_modules/element-ui/packages/theme-chalk/src/mixins/mixins";
+@import "../../node_modules/element-ui/packages/theme-chalk/src/mixins/utils";
+/*项目样式命名空间*/
+$namespace: 'we-chat';
+
+/*公用样式变量*/
+// $--color-body: #F6F7F9; // 背景色
+// $--color-font: #333333; // 字体颜色
+// $--color-shade: #f7f9fb; // 阴影颜色

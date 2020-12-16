@@ -1,0 +1,25 @@
+/**
+ * 引入类库样式文件
+ */
+// element scss文件
+$--font-path: "~element-ui/packages/theme-chalk/src/fonts";
+@import '~element-ui/packages/theme-chalk/src/index.scss';
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+// a {
+//   text-decoration: none;
+//   color: $--color-primary-light-2;
+//   &:active, &:hover {
+//     outline: 0;
+//   }
+//   &:focus, &:hover {
+//     text-decoration: underline;
+//     color: $--color-primary;
+//   }
+// }
